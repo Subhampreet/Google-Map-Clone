@@ -5,10 +5,16 @@
 
 <img src="https://github.com/Subhampreet/Google-Map-Clone/blob/main/media/header-1.png" >
 
+### Features:
+
 The features included in this project are:
 
 - Navigation through-out the Real-Time World Map.
-- The Application Displays the shortest path between two destinations, and also the time taken by different mode of transport.
-- [Google Map Clone Referance](https://www.youtube.com/watch?v=OySigNMXOZU)
+- The Application Displays the shortest path between two destinations. 
+- It also displays the time taken by different mode of transport(Traffic, Driving, Cycling, Walking).
 
+### Referances:
+
+- [Google Map Clone Referance](https://www.youtube.com/watch?v=OySigNMXOZU)
+- [Mapbox GL JS Docs](https://github.com/mapbox/mapbox-gl-js-docs)
 
